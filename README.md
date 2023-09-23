@@ -18,6 +18,7 @@
 
 ## Json Data Mocks
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+- [Jsondataai](https://www.jsondataai.com/)
 
 ## DBaaS
 - [Planet Scale](https://planetscale.com/)
